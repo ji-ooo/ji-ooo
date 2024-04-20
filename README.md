@@ -26,8 +26,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ji-ooo&theme=gruvbox">
 </p>
 
-### BOJ
-
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwldn0409" alt="Solved.ac">
 </p>
