@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 </p>
 
 ### BOJ
-(https://github.com/ji-ooo)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwldn0409)](https://solved.ac/chlwldn0409)
 
 ## Educations
