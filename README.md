@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 <br>
 <h3 align='center'>Studying ✏️</h3>
 <div align='center'>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" style="height: auto; max-height: 100px;">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white" alt="Spring Boot" style="height: auto; max-height: 100px;">
 </div>
+
 
 <hr>
 
