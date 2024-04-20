@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align='center'>Hello, I'm Backend Devleoper, JW</h3>
 
-![ji-ooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical)
+<p align='center'>![ji-ooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical)</p>
 
 ## Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-ooo&layout=compact)](https://github.com/ji-ooo)
