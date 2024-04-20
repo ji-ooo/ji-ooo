@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Custom Capsule](https://capsule-render.vercel.app/api?section=header&color=random)
-
 <h2 align='center'>👋 Hello, I'm Backend Devleoper, Ji-Woo</h2>
 
 <p align='center'>
