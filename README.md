@@ -22,12 +22,8 @@ Here are some ideas to get you started:
 <div align='center'>Skills</div>
 
 <div align="center">
-  <img src="https://img.icons8.com/color/24/000000/python.png" alt="Python">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5">
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 </div>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
 
 ---
 <p align='center'>
