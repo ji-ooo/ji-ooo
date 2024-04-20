@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 - 🖥️ Samsung Software Academy For Youth, SSAFY 11th (2024/01 ~ )
 
-## 📫 CONTACT
+## 📫 Contact
 
 - EMAIL: andyandy0409@naver.com
 - BLOG: -
