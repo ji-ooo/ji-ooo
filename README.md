@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello, World! 👋</h1>
 
-<p align="center">
-  <h3>Hello, I'm Backend Devleoper, JW</h3>
-</p>
+<h3 align='center'>Hello, I'm Backend Devleoper, JW</h3>
+
 
 ## Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-ooo&layout=compact)](https://github.com/ji-ooo)
