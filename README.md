@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### BOJ
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwldn0409)](https://solved.ac/chlwldn0409)
 
 ## Educations
 - Major: Chemical Engineering
