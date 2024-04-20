@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 
 ## 📫 CONTACT
 
-- EMAIL: [이메일 주소](mailto:andyandy0409@naver.com)
+- EMAIL: andyandy0409@naver.com
 - BLOG: -
 
