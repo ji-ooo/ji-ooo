@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <hr>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ji-ooo&theme=gruvbox">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ji-ooo&layout=compact&theme=gruvbox">
 </p>
 
 <p align="center">
