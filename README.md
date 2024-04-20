@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align='center'>👋 Hello, I'm Backend Devleoper, Ji-Woo</h3>
+<h2 align='center'>👋 Hello, I'm Backend Devleoper, Ji-Woo</h2>
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical" alt="ji-ooo's GitHub stats">
 </p>
 <br>
-<div align='center'><h4>Skills 💡</h4></div>
+<h4 align='center'>Skills 💡</h4>
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
-<div align='center'><h4>Studying ✏️</h4></div>
+<h4 align='center'>Studying ✏️</h4>
 <br>
 <div align='center'>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
