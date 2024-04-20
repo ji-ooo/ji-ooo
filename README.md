@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align='center'>Hello, I'm Backend Devleoper, JW</h3>
 
 <p align='center'>
-   ![ji-ooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical" alt="ji-ooo's GitHub stats">
 </p>
 
 ## Skills
