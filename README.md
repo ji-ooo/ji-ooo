@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello, World! 👋</h1>
-
-<h3 align='center'>Hello, I'm Backend Devleoper, JW</h3>
+<h3 align='center'>👋 Hello, I'm Backend Devleoper, JW</h3>
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical" alt="ji-ooo's GitHub stats">
