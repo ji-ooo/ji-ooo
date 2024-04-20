@@ -19,16 +19,14 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical" alt="ji-ooo's GitHub stats">
 </p>
 
-<p align='center'>Skills</p>
+<div align='center'>Skills</div>
 
-
-<p align="center">
-  Skill
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+<div align="center">
+  <img src="https://img.icons8.com/color/24/000000/python.png" alt="Python">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5">
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3">
-</p>
+</div>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React">
 
 ---
