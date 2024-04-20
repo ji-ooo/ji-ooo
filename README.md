@@ -22,16 +22,19 @@ Here are some ideas to get you started:
 </p>
 
 ## Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-ooo&layout=compact)](https://github.com/ji-ooo)
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ji-ooo&layout=compac">
+</p>
 
 ### BOJ
-
+(https://github.com/ji-ooo)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwldn0409)](https://solved.ac/chlwldn0409)
 
 ## Educations
 - Major: Chemical Engineering
 - Double Major: Low-Carbon Green Energy
 - Samsung Software Academy For Youth, SSAFY 11th (2024/01 ~ )
+  
 ## Project
 
 1. -
