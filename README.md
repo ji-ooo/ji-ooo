@@ -36,9 +36,6 @@ Here are some ideas to get you started:
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ji-ooo&layout=compact&theme=gruvbox">
-</p>
-
-<p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwldn0409" alt="Solved.ac">
 </p>
 
