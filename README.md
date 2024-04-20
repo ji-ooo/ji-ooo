@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align='center'>👋 Hello, I'm Backend Devleoper, JW</h3>
+<h3 align='center'>👋 Hello, I'm Backend Devleoper, Ji-Woo</h3>
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical" alt="ji-ooo's GitHub stats">
 </p>
-
+<br>
 <div align='center'>Skills 💡</div>
 
 <div align="center">
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 </div>
+<br>
 
 <div align='center'>Studying ✏️</div>
 
@@ -34,7 +35,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
 </div>
----
+
+<hr>
+
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ji-ooo&theme=gruvbox">
 </p>
