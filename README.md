@@ -13,37 +13,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">안녕하세요! 👋</h1>
+<h1 align="center">Hello, World! 👋</h1>
 
 <p align="center">
-  저의 깃허브 프로필에 오신 것을 환영합니다! 저는 [이름 또는 닉네임]이고, [직업 또는 역할]을 하는 [지역 또는 기관]에 소속되어 있습니다.
+  Hello, I'm Backend Devleoper, JW
 </p>
 
-## 기술 스택
+## Skills
 
-- 언어 1
-- 언어 2
-- 프레임워크 1
-- 도구 1
+- Python
+- Django
+- HTML / CSS
+- JavaScript
 
-## 프로젝트
+### BOJ
 
-제가 기여한 또는 만든 프로젝트에 대한 간단한 설명과 링크.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/백준아이디)
 
-1. [프로젝트 1](링크)
-   - 프로젝트 설명
-2. [프로젝트 2](링크)
-   - 프로젝트 설명
+## Educations
+- Major: Chemical Engineering
+- Double Major: Low-Carbon Green Energy
+- Samsung Software Academy For Youth, SSAFY 11th (2024/01 ~ )
+## Project
 
-## 연락처
+1. -
+   - .
 
-- 이메일: [이메일 주소](mailto:youremail@example.com)
-- 블로그: [블로그 주소](블로그 주소)
+## CONTACT
 
-## 기여
+- EMAIL: [이메일 주소](mailto:andyandy0409@naver.com)
+- BLOG: -
 
-다른 오픈 소스 프로젝트에 기여하는 방법에 대한 정보.
-
-## 라이선스
-
-프로필 정보의 라이선스 정보.
