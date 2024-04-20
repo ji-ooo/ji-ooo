@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 ## Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=사용자이름&layout=compact)](https://github.com/사용자이름)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji-ooo&layout=compact)](https://github.com/ji-ooo)
 
 ### BOJ
 
