@@ -28,17 +28,17 @@ Here are some ideas to get you started:
 <br>
 <h3 align='center'>Studying ✏️</h3>
 <div align='center'>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" style="height: 50;">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white" alt="Spring Boot" style="height: 50;">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white" alt="Spring Boot">
 </div>
 
 
 <hr>
 
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ji-ooo&layout=compact&theme=gruvbox">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwldn0409" alt="Solved.ac">
-</p>
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ji-ooo&layout=compact&theme=gruvbox" alt="GitHub Top Languages" height="200">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwldn0409" alt="Solved.ac" height="200">
+</div>
 
 ## 🎓 Educations
 - Major: Chemical Engineering ⚗️
