@@ -20,11 +20,7 @@ Here are some ideas to get you started:
 </p>
 
 ## Skills
-
-- Python
-- Django
-- HTML / CSS
-- JavaScript
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=사용자이름&layout=compact)](https://github.com/사용자이름)
 
 ### BOJ
 
