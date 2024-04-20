@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Skills
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ji-ooo&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ji-ooo&theme=dark">
 </p>
 
 ### BOJ
