@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hello, World! 👋</h1>
 
 <p align="center">
-  Hello, I'm Backend Devleoper, JW
+  <h3>Hello, I'm Backend Devleoper, JW</h3>
 </p>
 
 ## Skills
