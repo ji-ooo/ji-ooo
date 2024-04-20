@@ -23,11 +23,14 @@ Here are some ideas to get you started:
 
 ## Skills
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ji-ooo&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ji-ooo&theme=gruvbox">
 </p>
 
 ### BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwldn0409)](https://solved.ac/chlwldn0409)
+
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwldn0409" alt="Solved.ac">
+</p>
 
 ## Educations
 - Major: Chemical Engineering
