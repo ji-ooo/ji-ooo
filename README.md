@@ -32,7 +32,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white" alt="Spring Boot">
 </div>
 
-
 <hr>
 
 <div align='center'>
@@ -46,10 +45,6 @@ Here are some ideas to get you started:
 <br>
 
 - 🖥️ Samsung Software Academy For Youth, SSAFY 11th (2024/01 ~ )
-  
-## Project
-
-1. -
 
 ## 📫 CONTACT
 
