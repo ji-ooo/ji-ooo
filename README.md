@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 <h2 align='center'>👋 Hello, I'm Backend Devleoper, Ji-Woo</h2>
 
 <p align='center'>
@@ -51,4 +52,6 @@ Here are some ideas to get you started:
 
 - EMAIL: andyandy0409@naver.com
 - BLOG: -
+
+ ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
