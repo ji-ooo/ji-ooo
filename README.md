@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - Double Major: Low-Carbon Green Energy 🚎
 <br>
 
-- 🖥️ Samsung Software Academy For Youth, SSAFY 11th (2024/01 ~ )
+- 🖥️ Samsung Software Academy For Youth, SSAFY 11th (2024/01 ~ 2024/12)
 
 ## 📫 Contact
 
