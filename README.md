@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 ## 📫 Contact
 
 - EMAIL: andyandy0409@naver.com
+- [PORTPOLIO](https://cherry-ant-a16.notion.site/10b460f66d9580f4ac86c948027fc96c?pvs=74)
 - BLOG: -
 
  ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
