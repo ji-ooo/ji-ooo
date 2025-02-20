@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical" alt="ji-ooo's GitHub stats">
 </p>
-<h3 align='center'>Skill 💡</h3>
 <div align="center">
   <h3>Skill 💡</h3>
   
