@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h2 align='center'>👋 빠르게 배우고 성장하는, 개발자 최지우입니다.</h2>
 
 <p align='center'>
-  <img src="https://github-readme-stats-ji-ooo.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical" alt="ji-ooo's GitHub stats">
+  <img src="https://github-readme-stats-ruby-two-36.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical" alt="ji-ooo's GitHub stats">
 </p>
 <div align="center">
   <h3>Skill 💡</h3>
