@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
-<h2 align='center'>👋 빠르게 배우고 성장하는, FE 개발자 최지우입니다.</h2>
+<h2 align='center'>👋 빠르게 배우고 성장하는, 개발자 최지우입니다.</h2>
 
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical" alt="ji-ooo's GitHub stats">
