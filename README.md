@@ -42,13 +42,17 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" alt="React">
     <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=React&logoColor=black" alt="React Native">
   </div>
+
+  <!-- DevOps -->
+  <div style="margin-top: 8px;">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
+  </div>
   
   <!-- 도구 -->
   <div style="margin-top: 8px;">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira">
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   </div>
 </div>
 
