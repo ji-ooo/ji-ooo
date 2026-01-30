@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 <div align="left">
   <h3>Stacks 💡</h3>
-  ---
+  - - -
   
   <!-- 백엔드 -->
   <h4>Language</h4>
@@ -52,14 +52,15 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   </div>
+  - - -
   
-  <h3>Tools 🛠️</h3>
-  <div style="margin-top: 8px;">
+  <h3 style="margin-top: 8px;">Tools 🛠️</h3>
+  <div>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira">
   </div>
 </div>
-
+- - -
 <br>
 <h3>Studying ✏️</34>
 <div align='left'>
