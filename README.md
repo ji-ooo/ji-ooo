@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&section=header&height=400&text=👋%20빠르게%20배우고%20성장하는-nl-%20개발자%20최지우입니다)
-<h2 align='center'>👋 빠르게 배우고 성장하는, 개발자 최지우입니다.</h2>
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&section=header&height=400&text=👋%20빠르게%20배우고%20성장하는-nl-%20개발자%20최지우입니다&fontSize=30)
+<!-- <h2 align='center'>👋 빠르게 배우고 성장하는, 개발자 최지우입니다.</h2> -->
 
 <p align='center'>
   <img src="https://github-readme-stats-ruby-two-36.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical" alt="ji-ooo's GitHub stats">
