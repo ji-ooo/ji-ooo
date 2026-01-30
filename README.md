@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90&width=100%)
 <h2 align='center'>👋 빠르게 배우고 성장하는, 개발자 최지우입니다.</h2>
 
 <p align='center'>
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 <div align="left">
   <h3>Stacks 💡</h3>
-  <hr/>
+  <hr>
   
   <!-- 백엔드 -->
   <h4>Language</h4>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   </div>
-  - - -
+  <hr>
   
   <h3 style="margin-top: 8px;">Tools 🛠️</h3>
   <div>
@@ -60,14 +60,14 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira">
   </div>
 </div>
-- - -
+<hr>
+
 <br>
 <h3>Studying ✏️</34>
 <div align='left'>
   <img src="https://img.shields.io/badge/LangChain-4A90E2?style=flat&logo=langchain&logoColor=white" alt="LangChain">
   <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat&logo=langgraph&logoColor=white" alt="LangGraph">
 </div>
-
 <hr>
 
 <div align='center'>
