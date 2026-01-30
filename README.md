@@ -27,16 +27,17 @@ Here are some ideas to get you started:
   <h3>Language</h3>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" alt="Django">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+    <br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" alt="TypeScript">
   </div>
   
-  <h3 style="margin-top: 8px;">Framework</h3>
+  <h3>Framework</h3>
   <div>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" alt="Django">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" alt="Vue.js">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" alt="React">
     <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=React&logoColor=black" alt="React Native">
@@ -71,7 +72,8 @@ Here are some ideas to get you started:
 </div>
 
 
-<div align='center'>
+<div align='left'>
+  <h2>Statistics</h2>
   <img src="https://github-readme-stats-ruby-two-36.vercel.app/api/top-langs/?username=ji-ooo&layout=compact&theme=gruvbox&hide=jupyter%20notebook" alt="GitHub Top Languages" height="200">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwldn0409" alt="Solved.ac" height="200">
 </div>
