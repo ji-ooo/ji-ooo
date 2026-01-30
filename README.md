@@ -19,12 +19,12 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-ruby-two-36.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical" alt="ji-ooo's GitHub stats">
 </p>
 
-<div align="center">
-  <h3>Stacks 💡</h3>
+<div align="left">
+  <h2>Stacks 💡</h2>
   <br>
   
   <!-- 백엔드 -->
-  <h4>Language</h4>
+  <h3>Language</h3>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" alt="Django">
@@ -35,34 +35,34 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" alt="TypeScript">
   </div>
   
-  <h4>Framework</h4>
-  <div style="margin-top: 8px;">
+  <h3 style="margin-top: 8px;">Framework</h3>
+  <div>
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" alt="Vue.js">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" alt="React">
     <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=React&logoColor=black" alt="React Native">
   </div>
 
-  <h4>OS</h4>
+  <h3 style="margin-top: 8px;">OS</h3>
   <div>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
   </div>
 
-  <h4>DevOps</h4>
-  <div style="margin-top: 8px;">
+  <h3 style="margin-top: 8px;">DevOps</h3>
+  <div>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   </div>
   <br>
   
-  <h3 style="margin-top: 8px;">Tools 🛠️</h3>
+  <h2 style="margin-top: 8px;">Tools 🛠️</h2>
   <div>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira">
   </div>
   <br>
 
-  <h3>Studying ✏️</h3>
+  <h2 style="margin-top: 8px;">Studying ✏️</h2>
   <div>
     <img src="https://img.shields.io/badge/LangChain-4A90E2?style=flat&logo=langchain&logoColor=white" alt="LangChain">
     <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat&logo=langgraph&logoColor=white" alt="LangGraph">
