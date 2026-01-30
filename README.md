@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&section=header&height=280&text=👋%20빠르게%20배우고%20성장하는-nl-%20개발자%20최지우입니다&fontSize=30)
 <!-- <h2 align='center'>👋 빠르게 배우고 성장하는, 개발자 최지우입니다.</h2> -->
 
-<p align='center'>
-  <img src="https://github-readme-stats-ruby-two-36.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical" alt="ji-ooo's GitHub stats">
-</p>
-
 <div align="left">
   <h2>Stacks 💡</h2>
   <br>
@@ -43,27 +39,27 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=React&logoColor=black" alt="React Native">
   </div>
 
-  <h3 style="margin-top: 8px;">OS</h3>
+  <h3>OS</h3>
   <div>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
   </div>
 
-  <h3 style="margin-top: 8px;">DevOps</h3>
+  <h3>DevOps</h3>
   <div>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   </div>
   <br>
   
-  <h2 style="margin-top: 8px;">Tools 🛠️</h2>
+  <h2>Tools 🛠️</h2>
   <div>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira">
   </div>
   <br>
 
-  <h2 style="margin-top: 8px;">Studying ✏️</h2>
+  <h2>Studying ✏️</h2>
   <div>
     <img src="https://img.shields.io/badge/LangChain-4A90E2?style=flat&logo=langchain&logoColor=white" alt="LangChain">
     <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat&logo=langgraph&logoColor=white" alt="LangGraph">
@@ -76,6 +72,7 @@ Here are some ideas to get you started:
   <h2>Statistics</h2>
   <img src="https://github-readme-stats-ruby-two-36.vercel.app/api/top-langs/?username=ji-ooo&layout=compact&theme=gruvbox&hide=jupyter%20notebook" alt="GitHub Top Languages" height="200">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwldn0409" alt="Solved.ac" height="200">
+  <img src="https://github-readme-stats-ruby-two-36.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical" alt="ji-ooo's GitHub stats" height="200">
 </div>
 
 ## 🎓 Educations
