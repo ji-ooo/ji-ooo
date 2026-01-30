@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h3>Stacks 💡</h3>
-  <hr>
+  <br>
   
   <!-- 백엔드 -->
   <h4>Language</h4>
@@ -53,21 +53,21 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   </div>
-  <hr>
+  <br>
   
   <h3 style="margin-top: 8px;">Tools 🛠️</h3>
   <div>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira">
   </div>
-  <hr>
+  <br>
 
   <h3>Studying ✏️</h3>
   <div>
     <img src="https://img.shields.io/badge/LangChain-4A90E2?style=flat&logo=langchain&logoColor=white" alt="LangChain">
     <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat&logo=langgraph&logoColor=white" alt="LangGraph">
   </div>
-  <hr>
+  <br>
 </div>
 
 
