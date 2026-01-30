@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </p>
 <div align="left">
   <h3>Stacks 💡</h3>
-  - - -
+  <hr/>
   
   <!-- 백엔드 -->
   <h4>Language</h4>
