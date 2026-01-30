@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 <div align="left">
   <h2>Stacks 💡</h2>
-  <br>
-  
-  <!-- 백엔드 -->
   <h3>Language</h3>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python">
@@ -70,9 +67,9 @@ Here are some ideas to get you started:
 
 <div align='left'>
   <h2>Statistics</h2>
+  <img src="https://github-readme-stats-ruby-two-36.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical" alt="ji-ooo's GitHub stats" height="200">
   <img src="https://github-readme-stats-ruby-two-36.vercel.app/api/top-langs/?username=ji-ooo&layout=compact&theme=gruvbox&hide=jupyter%20notebook" alt="GitHub Top Languages" height="200">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chlwldn0409" alt="Solved.ac" height="200">
-  <img src="https://github-readme-stats-ruby-two-36.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical" alt="ji-ooo's GitHub stats" height="200">
 </div>
 
 ## 🎓 Educations
