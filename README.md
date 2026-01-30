@@ -61,8 +61,8 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<h4>Studying ✏️</h4>
-<div align='center'>
+<h3>Studying ✏️</34>
+<div align='left'>
   <img src="https://img.shields.io/badge/LangChain-4A90E2?style=flat&logo=langchain&logoColor=white" alt="LangChain">
   <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat&logo=langgraph&logoColor=white" alt="LangGraph">
 </div>
