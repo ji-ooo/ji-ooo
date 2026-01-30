@@ -18,38 +18,42 @@ Here are some ideas to get you started:
 <p align='center'>
   <img src="https://github-readme-stats-ruby-two-36.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical" alt="ji-ooo's GitHub stats">
 </p>
-<div align="center">
-  <h3>Skill 💡</h3>
-
+<div align="left">
+  <h3>Stacks 💡</h3>
+  ---
+  
   <!-- 백엔드 -->
+  <h4>Language</h4>
   <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" alt="Django">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
-  </div>
-  
-  <!-- 프론트엔드 -->
-  <div style="margin-top: 8px;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" alt="TypeScript">
   </div>
   
-  <!-- 프레임워크 -->
+  <h4>Framework</h4>
   <div style="margin-top: 8px;">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" alt="Vue.js">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black" alt="React">
     <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=React&logoColor=black" alt="React Native">
   </div>
 
-  <!-- DevOps -->
+  <h4>OS</h4>
+  <div>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
+  </div>
+
+  <h4>DevOps</h4>
   <div style="margin-top: 8px;">
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   </div>
   
-  <!-- 도구 -->
+  <h3>Tools 🛠️</h3>
   <div style="margin-top: 8px;">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira">
@@ -57,9 +61,10 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<h4 align='center'>Studying ✏️</h4>
+<h4>Studying ✏️</h4>
 <div align='center'>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/LangChain-4A90E2?style=flat&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat&logo=langgraph&logoColor=white" alt="LangGraph">
 </div>
 
 <hr>
