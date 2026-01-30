@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <p align='center'>
   <img src="https://github-readme-stats-ruby-two-36.vercel.app/api?username=ji-ooo&show_icons=true&theme=radical" alt="ji-ooo's GitHub stats">
 </p>
-<div align="left">
+
+<div align="center">
   <h3>Stacks 💡</h3>
   <hr>
   
@@ -59,16 +60,16 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira">
   </div>
-</div>
-<hr>
+  <hr>
 
-<br>
-<h3>Studying ✏️</34>
-<div align='left'>
-  <img src="https://img.shields.io/badge/LangChain-4A90E2?style=flat&logo=langchain&logoColor=white" alt="LangChain">
-  <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat&logo=langgraph&logoColor=white" alt="LangGraph">
+  <h3>Studying ✏️</h3>
+  <div>
+    <img src="https://img.shields.io/badge/LangChain-4A90E2?style=flat&logo=langchain&logoColor=white" alt="LangChain">
+    <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat&logo=langgraph&logoColor=white" alt="LangGraph">
+  </div>
+  <hr>
 </div>
-<hr>
+
 
 <div align='center'>
   <img src="https://github-readme-stats-ruby-two-36.vercel.app/api/top-langs/?username=ji-ooo&layout=compact&theme=gruvbox&hide=jupyter%20notebook" alt="GitHub Top Languages" height="200">
