@@ -12,7 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&section=header&height=280&text=👋%20빠르게%20배우고%20성장하는-nl-%20개발자%20최지우입니다&fotColor=000000&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&section=header&height=280&text=👋%20개발자%20최지우입니다&fotColor=000000&fontSize=30)
+
+<!-- 
+[header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&section=header&height=280&text=👋%20빠르게%20배우고%20성장하는-nl-%20개발자%20최지우입니다&fotColor=000000&fontSize=30)
+-->
+
 <!-- <h2 align='center'>👋 빠르게 배우고 성장하는, 개발자 최지우입니다.</h2> -->
 
 <div align="left">
@@ -58,8 +63,8 @@ Here are some ideas to get you started:
 
   <h2>Studying ✏️</h2>
   <div>
-    <img src="https://img.shields.io/badge/LangChain-4A90E2?style=flat&logo=langchain&logoColor=white" alt="LangChain">
-    <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat&logo=langgraph&logoColor=white" alt="LangGraph">
+    <!-- <img src="https://img.shields.io/badge/LangChain-4A90E2?style=flat&logo=langchain&logoColor=white" alt="LangChain">
+    <img src="https://img.shields.io/badge/LangGraph-FF6F61?style=flat&logo=langgraph&logoColor=white" alt="LangGraph"> -->
   </div>
   <br>
 </div>
